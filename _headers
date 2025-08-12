@@ -1,0 +1,4 @@
+/fonts/*
+  Content-Type: application/x-protobuf-gzipped
+  Content-Encoding: gzip
+  Access-Control-Allow-Origin: *
