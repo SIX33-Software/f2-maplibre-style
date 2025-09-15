@@ -5,7 +5,7 @@
 		"carto": { "type": "vector", "url": "https://tiles.basemaps.cartocdn.com/vector/carto.streets/v1/tiles.json" }
 	},
 	"sprite": "https://tiles.basemaps.cartocdn.com/gl/dark-matter-gl-style/sprite",
-	"glyphs": "https://689b4072846dcfbca77803fb--f2-maplibre-style.netlify.app/fonts/{fontstack}/{range}.pbf",
+	"glyphs": "https://f2-maplibre-style.netlify.app/fonts/{fontstack}/{range}.pbf",
 	"layers": [
 		{
 			"id": "background",
